@@ -1,16 +1,16 @@
 # Pretty Pictures
 
-This course material was created by Carlos A. Ruvalcaba for the 2019-2020 UC Davis [Professors for the Future](https://gradpathways.ucdavis.edu/pftf-about) Fellowship Program at UC Davis. This is a collection of markdown documents, and some additional scripts and tools meant to supplement the course material. The course material is provided on the [Pretty Pictures](carlos-ar.github.io/teaching/prettypics.html) website.
+This course material was created by Carlos A. Ruvalcaba for the 2019-2020 UC Davis [Professors for the Future](https://gradpathways.ucdavis.edu/pftf-about) Fellowship Program at UC Davis. This is a collection of markdown documents, and some additional scripts and tools meant to supplement the course material. The course material is provided on the [Pretty Pictures](https://carlos-ar.github.io/teaching/prettypics.html) website.
 
 ## List of Lessons
 
-1. Conveying research through images
-2. De-constructing the technicalities of images
-3. What tools can I use?
-4. Framework for developing an image for your research
-5. Hands-on: Working with existing images
-6. Hands-on: Creating vector images
-7. Hands-on: Putting it all together
+1. [Conveying research through images](lessons/lesson-01.md)
+2. [De-constructing the technicalities of images](lessons/lesson-02.md)
+3. [What tools can I use?](lessons/lesson-03.md)
+4. [Framework for developing an image for your research](lessons/lesson-04.md)
+5. [Hands-on: Working with existing images](lessons/lesson-05.md)
+6. [Hands-on: Creating vector images](lessons/lesson-06.md)
+7. [Hands-on: Putting it all together](lessons/lesson-07.md)
 
 ## Project Statement
 
